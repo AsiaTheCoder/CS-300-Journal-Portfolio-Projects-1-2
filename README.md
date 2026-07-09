@@ -1,4 +1,5 @@
 **(Created Oct 3, 2023) Journal - Reflection**
+
 What was the problem you were solving in the projects for this course?
 
 In Project One, the primary problem was efficiently managing and retrieving course data using various structures such as Vectors, Hash Tables, and Trees. The objective was to evaluate the time complexity and grasp the pros and cons of each structure. In Project Two, the problem was organizing and displaying course information from a provided dataset containing elements like course numbers, names, and prerequisites.
